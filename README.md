@@ -45,4 +45,12 @@ Think about guiding refactoring-work in your regular/project teams. Think of the
 You have seen a few workflows in this repository. They are quality-gates to prevent duplication, control complexity and prove functionality. Do you think some of them have potential to guide code-improvements in your team? yes
 
 During the next four weeks, what improvement do you plan in your code-quality practice? (in your regular work, not in this repository!)
-Implement Automated Testing and Reduce Cyclomatic complexity
+In the upcoming weeeks I will implement the following changes in my code to improve code quality 
+ 1.Implement Automated testing 
+ 2.Reduce Cyclomatic complexity by simplifying conditional statements, refactor long methods into simpler code 
+ 3.Avoid code dulplication
+ 4.Use code comments to explain the context of the code
+ 5.Define functions and classes to have a clear and single responsibility  
+ 6.Remove deadcode and unused variables/functions in code
+ 7.Follow code formatiing and indentation styles
+ 8.Avoid deep nesting and early return to improve code readability.
